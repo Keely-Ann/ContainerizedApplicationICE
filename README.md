@@ -11,16 +11,15 @@
 * init-database.sql
 * docker-compose.yml
 * ProductsConfiguration.cs
-* README File
-  **
+* README File ()
     
 
 ### Wiehan
 * Models: Products.cs
 * docker-compose.yml
 * ApplicationDBConnect
-* README File
-  **
+* README File ()
+  
 
 <br>
 
