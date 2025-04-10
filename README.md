@@ -11,6 +11,7 @@
 * init-database.sql
 * docker-compose.yml
 * ProductsConfiguration.cs
+* Program.cs
 * README File ()
     
 
