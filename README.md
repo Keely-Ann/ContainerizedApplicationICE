@@ -9,9 +9,11 @@
 ## Team Member Contribution
 ### Keely-Ann
   * init-database.sql
+  * docker-compose.yml
 
 ### Wiehan
 * Models: Products.cs
+* docker-compose.yml
 
 <br>
 
