@@ -19,10 +19,21 @@
 
 ## Decision making Process
 
+
+<br>
+
 ## Challenges
+
+
+<br>
 
 ## How the challenges were resolved
 
+
+<br>
+
 ## Instructions on how to run the application 
 
+
+<br>
 
