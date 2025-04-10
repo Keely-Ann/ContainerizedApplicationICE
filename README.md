@@ -8,12 +8,19 @@
 
 ## Team Member Contribution
 ### Keely-Ann
-  * init-database.sql
-  * docker-compose.yml
+* init-database.sql
+* docker-compose.yml
+* ProductsConfiguration.cs
+* README File
+  **
+    
 
 ### Wiehan
 * Models: Products.cs
 * docker-compose.yml
+* ApplicationDBConnect
+* README File
+  **
 
 <br>
 
