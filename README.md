@@ -6,9 +6,12 @@
 
 
 ## Team Member Contribution
-* Keely-Ann
-  
-* Wiehan
+### Keely-Ann
+  * init-database.sql
+
+### Wiehan
+* Models: Products.cs
+
 ## Decision making Process
 
 ## Challenges
