@@ -1,37 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\",
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|c:\\users\\lab_services_student\\source\\repos\\contailerizedapplicationice\\retailmvc\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|solutionrelative:retailmvc\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|c:\\users\\lab_services_student\\documents\\github\\containerizedapplicationice\\retailmvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|solutionrelative:retailmvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|c:\\users\\lab_services_student\\source\\repos\\contailerizedapplicationice\\retailmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|solutionrelative:retailmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|c:\\users\\lab_services_student\\source\\repos\\contailerizedapplicationice\\retailmvc\\data\\applicationdbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|solutionrelative:retailmvc\\data\\applicationdbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|c:\\users\\lab_services_student\\source\\repos\\contailerizedapplicationice\\retailmvc\\data\\config\\productsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|solutionrelative:retailmvc\\data\\config\\productsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailDB\\init-database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RetailDB\\init-database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailDB\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailDB\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RetailDB\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailDB\\init-database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "AbsoluteMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|c:\\users\\lab_services_student\\documents\\github\\containerizedapplicationice\\retailmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|solutionrelative:retailmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|c:\\users\\lab_services_student\\documents\\github\\containerizedapplicationice\\retailmvc\\data\\applicationdbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|solutionrelative:retailmvc\\data\\applicationdbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailDB\\init-database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RetailDB\\init-database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|c:\\users\\lab_services_student\\documents\\github\\containerizedapplicationice\\retailmvc\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|solutionrelative:retailmvc\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|c:\\users\\lab_services_student\\documents\\github\\containerizedapplicationice\\retailmvc\\data\\config\\productsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABF2902-63E7-4EC0-B0A9-020C87566608}|RetailMVC\\RetailMVC.csproj|solutionrelative:retailmvc\\data\\config\\productsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailDB\\init-database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RetailDB\\init-database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
@@ -42,78 +46,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ApplicationDBConnect.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailMVC\\Data\\ApplicationDBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailMVC\\Data\\ApplicationDBConnect.cs",
               "RelativeDocumentMoniker": "RetailMVC\\Data\\ApplicationDBConnect.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailMVC\\Data\\ApplicationDBConnect.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailMVC\\Data\\ApplicationDBConnect.cs",
               "RelativeToolTip": "RetailMVC\\Data\\ApplicationDBConnect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T07:19:16.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailMVC\\Data\\Config\\ProductsConfiguration.cs",
-              "RelativeDocumentMoniker": "RetailMVC\\Data\\Config\\ProductsConfiguration.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailMVC\\Data\\Config\\ProductsConfiguration.cs",
-              "RelativeToolTip": "RetailMVC\\Data\\Config\\ProductsConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:18:47.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailMVC\\Program.cs",
-              "RelativeDocumentMoniker": "RetailMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailMVC\\Program.cs",
-              "RelativeToolTip": "RetailMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:11:14.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailMVC\\Models\\Products.cs",
-              "RelativeDocumentMoniker": "RetailMVC\\Models\\Products.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailMVC\\Models\\Products.cs",
-              "RelativeToolTip": "RetailMVC\\Models\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:08:07.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAABgAwAAAAARwB0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-04-10T07:05:20.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailMVC\\Data\\Config\\ProductsConfiguration.cs",
+              "RelativeDocumentMoniker": "RetailMVC\\Data\\Config\\ProductsConfiguration.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailMVC\\Data\\Config\\ProductsConfiguration.cs",
+              "RelativeToolTip": "RetailMVC\\Data\\Config\\ProductsConfiguration.cs",
+              "ViewState": "AgIAAAgAAABAmpmZmZkhwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:18:47.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "init-database.sql ",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailDB\\init-database.sql",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailDB\\init-database.sql",
               "RelativeDocumentMoniker": "RetailDB\\init-database.sql",
               "ToolTip": "init-database.sql ",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
@@ -122,16 +100,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailDB\\Dockerfile",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailMVC\\Dockerfile",
+              "RelativeDocumentMoniker": "RetailMVC\\Dockerfile",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailMVC\\Dockerfile",
+              "RelativeToolTip": "RetailMVC\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T09:36:55.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailMVC\\Program.cs",
+              "RelativeDocumentMoniker": "RetailMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailMVC\\Program.cs",
+              "RelativeToolTip": "RetailMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:11:14.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailMVC\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "RetailMVC\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailMVC\\Models\\Products.cs",
+              "RelativeToolTip": "RetailMVC\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:08:07.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailDB\\Dockerfile",
               "RelativeDocumentMoniker": "RetailDB\\Dockerfile",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ContailerizedApplicationICE\\RetailDB\\Dockerfile",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ContainerizedApplicationICE\\RetailDB\\Dockerfile",
               "RelativeToolTip": "RetailDB\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-10T07:04:38.059Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

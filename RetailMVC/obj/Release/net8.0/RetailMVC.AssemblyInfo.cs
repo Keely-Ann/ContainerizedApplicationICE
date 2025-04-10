@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("3883f7ba-3c43-4dae-be06-58cafa259eef")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetailMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e3a31c66cd398b42ddab00b3a4503609671a78f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e31c50ca4fc5683d0c247b476c73185d8936909")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetailMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetailMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

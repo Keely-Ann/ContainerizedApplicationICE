@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using RetailMVC.Data;
+
 namespace RetailMVC
 {
     public class Program
@@ -5,6 +8,13 @@ namespace RetailMVC
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddDbContext<ApplicationDBConnect>(options =>
+            {
+                //Will not give connection string by default
+                //Environment variables - global variables computers create to use in applications (on computer)
+                options.UseSqlServer(Environment.GetEnvironmentVariable("SQL_CONNECTION_STRING"));
+            });
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
