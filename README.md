@@ -11,6 +11,8 @@
 * init-database.sql
 * docker-compose.yml
 * ProductsConfiguration.cs
+* RetailDB Dockerfile
+* RetailMVC Dockerfile
 * Program.cs
 * README File ()
     
@@ -19,6 +21,8 @@
 * Models: Products.cs
 * docker-compose.yml
 * ApplicationDBConnect
+* RetailDB Dockerfile
+* RetailMVC Dockerfile
 * README File ()
   
 
