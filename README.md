@@ -1,4 +1,4 @@
-# ContainerizedApplicationICE
+<h1 align="center">Containerized ICE Task</h1>
 
 ## Team Members 
 * [Keely-Ann Maritz](https://github.com/Keely-Ann/)
