@@ -53,7 +53,7 @@
 2. Open the project in Visual Studio.
 3. Make sure Docker is open and running. 
 4. Click on Tools -> Command Line -> Developer Command Prompt
-5. Assuming you have nothing running in Docker (no containers, no images, no volumes) Run the <b>docker-compose up --build<b>
+5. Assuming you have nothing running in Docker (no containers, no images, no volumes) Run the <b>docker-compose up --build</b>
 6. Run the application 
 
 <br>
