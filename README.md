@@ -57,7 +57,7 @@
 3. Make sure Docker is open and running. 
 4. Click on Tools -> Command Line -> Developer Command Prompt <br>
 5. Assuming you have nothing running in Docker (no containers, no images, no volumes)</b>, run the command: <b>docker-compose up --build</b>
-7. Run the application 
-
+7. Run this link in the browser http://localhost:5000/
+ 
 <br>
 
