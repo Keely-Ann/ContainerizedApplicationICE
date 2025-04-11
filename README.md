@@ -1,7 +1,6 @@
 <h1 align="center">Containerized ICE Task</h1>
 
-<p align="center"><img src="![image](https://github.com/user-attachments/assets/0b1597b1-49a9-4979-a0d4-719bb7feb8e8)" alt="Image"></p>
-
+![image](https://github.com/user-attachments/assets/81fc0a88-5882-49cb-b5a8-4aa822724e08)
 
 ## Team Members 
 * [Keely-Ann Maritz](https://github.com/Keely-Ann/)
