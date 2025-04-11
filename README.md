@@ -52,7 +52,7 @@
 1. Download the GitHub repository or clone the repository.
 2. Open the project in Visual Studio.
 3. Make sure Docker is open and running. 
-4. Click on Tools -> Command Line -> Developer Command Prompt
+4. Click on Tools -> Command Line -> Developer Command Prompt <br>
 <b>Assuming you have nothing running in Docker (no containers, no images, no volumes)</b>
 5. Run the command: <b>docker-compose up --build</b>
 6. Run the application 
