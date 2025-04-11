@@ -3,31 +3,52 @@
 @{
     ViewData["Title"] = "AddProducts";
 }
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Product</title>
+</head>
+<style>
+    /*styling the back button*/
+    .custom-btn {
+        background-color: darkgrey;
+        border: darkgrey;
+        color: white;
+    }
+</style>
+<body>
+<br />
+<br />
 
-<h1>Add Products</h1>
+<h1>Add Product</h1>
 <hr />
 
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="AddProducts">
+        <form asp-action="AddProducts" method="post" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
+                <input asp-for="Name" class="form-control" placeholder="E.g. Donkey Kong" />
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
+            <br />
             <div class="form-group">
                 <label asp-for="Price" class="control-label"></label>
-                <input asp-for="Price" class="form-control" />
+                <input asp-for="Price" class="form-control" min="0" placeholder="E.g. 1200" />
                 <span asp-validation-for="Price" class="text-danger"></span>
             </div>
+            <br>
             <div class="form-group">
-                <input type="submit" value="AddProducts" class="btn btn-primary" />
-                <a asp-action="ViewProducts">Back</a>
+                <input type="submit" value="AddProducts" class="btn btn-success" />
+                <a asp-controller="Products" asp-action="ViewProducts" class="btn custom-btn">Back</a>
             </div>
         </form>
     </div>
 </div>
+
+</body>
+</html>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

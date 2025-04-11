@@ -3,12 +3,105 @@
 @{
     ViewData["Title"] = "ViewProducts";
 }
+<!DOCTYPE html>
+<html>
+<head>
+    <title>View Products</title>
+</head>
+<style>
+    /* Style the table */
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 100%;
+        border: 1px solid #240046;
+    }
 
-<h1>View Products</h1>
+    /* Style the table*/
+    th, td {
+        text-align: left;
+        padding: 16px;
+    }
 
-<p>
-    <a asp-action="AddProducts">Add Product</a>
-</p>
+    /* styling body */
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* styling heading 1 */
+    h1 {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* styling heading 2 */
+    h2 {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* styling heading 3 */
+    h3 {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* styling table */
+    ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* styling table */
+    li {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Style the table */
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 100%;
+        border: 1px solid grey;
+    }
+
+    /* Style table cells */
+    th {
+        text-align: left;
+        padding: 16px;
+    }
+
+    /* Style table cells */
+    td {
+        text-align: left;
+        padding: 16px;
+    }
+
+    /*Styling the table heading row*/
+    thead {
+        background-color: grey;
+        color: white;
+    }
+
+    /*Styling the table hover row*/
+    table-hover {
+        background-color: grey;
+    }
+</style>
+<body>
+    <br />
+    <br />
+
+    <h1 style="text-align:center">Products</h1>
+    <hr />
+
+    <p>
+        <a class="btn btn-success" asp-controller="Products" asp-action="AddProducts">Add Product</a>
+    </p>
+
+    <br />
 <table class="table">
     <thead>
         <tr>
@@ -18,7 +111,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.Price)
             </th>
-            <th></th>
+            <th>
+                Actions
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -31,10 +126,12 @@
                 @Html.DisplayFor(modelItem => item.Price)
             </td>
             <td>
-                <a asp-action="UpdateProducts" asp-route-id="@item.ID">Update</a>
-                <a asp-action="DeleteProducts" asp-route-id="@item.ID">Delete</a>
+                <a asp-action="UpdateProducts" asp-route-id="@item.ID" class="btn btn-primary">Update</a>
+                <a asp-action="DeleteProducts" asp-route-id="@item.ID" class="btn btn-danger">Delete</a>
             </td>
         </tr>
 }
     </tbody>
 </table>
+</body>
+</html>
