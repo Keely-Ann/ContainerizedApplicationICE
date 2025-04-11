@@ -20,11 +20,11 @@ services:
     networks:
       - retail-network
 
-  api-service:
+  mvc-service:
     build:
       context: .               # Root context to ensure file accessibility
       dockerfile: ./RetailMVC/Dockerfile  # Path to RetailMVC Dockerfile
-    container_name: api-service
+    container_name: mvc-service
     environment:
       SQL_CONNECTION_STRING: "Server=retail-db;Database=RetailDB;Trusted_Connection=false;MultipleActiveResultSets=true;Encrypt=false;user id=sa;password=Password1!"
     ports:
