@@ -1,5 +1,8 @@
 <h1 align="center">Containerized ICE Task</h1>
 
+![image](https://github.com/user-attachments/assets/34b410e8-91f5-4f91-9524-0670bd14bfd6)
+
+
 ## Team Members 
 * [Keely-Ann Maritz](https://github.com/Keely-Ann/)
 * [Wiehan Smalberger](https://github.com/wiehan007)
@@ -32,13 +35,13 @@
 
 ## Decision making Process
 1. Create database (init-database.sql) through the dockerfiles and docker-compose.yml
-2. Directly implemented it into the MVC Appliction with the connection string in the program file, instead of using Entity Framework.
+2. Directly implemented it into the MVC Application with the connection string in the program file, instead of using Entity Framework.
 
 <br>
 
 ## Challenges
 1. When attempting to build the database via the command line, we encountered a table name problem since one of the column names, "ProductName", did not match what was intended.
-2. We had trouble implementing the connection to the database using Entity Framework 
+2. We had trouble implementing the connection to the database using Entity Framework.
 
 <br>
 
@@ -54,7 +57,7 @@
 3. Make sure Docker is open and running. 
 4. Click on Tools -> Command Line -> Developer Command Prompt <br>
 5. Assuming you have nothing running in Docker (no containers, no images, no volumes)</b>, run the command: <b>docker-compose up --build</b>
-7. Run the application 
-
+7. Run this link in the browser http://localhost:5000/
+ 
 <br>
 
