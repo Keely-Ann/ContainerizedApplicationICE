@@ -35,13 +35,13 @@
 
 ## Decision making Process
 1. Create database (init-database.sql) through the dockerfiles and docker-compose.yml
-2. Directly implemented it into the MVC Appliction with the connection string in the program file, instead of using Entity Framework.
+2. Directly implemented it into the MVC Application with the connection string in the program file, instead of using Entity Framework.
 
 <br>
 
 ## Challenges
 1. When attempting to build the database via the command line, we encountered a table name problem since one of the column names, "ProductName", did not match what was intended.
-2. We had trouble implementing the connection to the database using Entity Framework 
+2. We had trouble implementing the connection to the database using Entity Framework.
 
 <br>
 
