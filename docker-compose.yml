@@ -28,7 +28,7 @@ services:
     environment:
       SQL_CONNECTION_STRING: "Server=retail-db;Database=RetailDB;Trusted_Connection=false;MultipleActiveResultSets=true;Encrypt=false;user id=sa;password=Password1!"
     ports:
-      - "8080:8080"
+      - "5000:8080"
     depends_on:
       retail-db:
         condition: service_healthy
