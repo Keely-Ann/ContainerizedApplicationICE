@@ -1,5 +1,8 @@
 <h1 align="center">Containerized ICE Task</h1>
 
+![1010909-illustration-logo-cartoon-docker-containers-diagram-clip-art](https://github.com/user-attachments/assets/ec50c664-4dae-48ab-a54e-930f976d3016)
+
+
 ## Team Members 
 * [Keely-Ann Maritz](https://github.com/Keely-Ann/)
 * [Wiehan Smalberger](https://github.com/wiehan007)
