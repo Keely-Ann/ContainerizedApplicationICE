@@ -1,6 +1,6 @@
 <h1 align="center">Containerized ICE Task</h1>
 
-![1010909-illustration-logo-cartoon-docker-containers-diagram-clip-art](https://github.com/user-attachments/assets/ec50c664-4dae-48ab-a54e-930f976d3016)
+<p align="center"><img src="![image](https://github.com/user-attachments/assets/0b1597b1-49a9-4979-a0d4-719bb7feb8e8)" alt="Image"></p>
 
 
 ## Team Members 
